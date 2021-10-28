@@ -1,0 +1,3 @@
+displayName = Gods Awakened
+author = Alex Wilkes
+version = 0.3
